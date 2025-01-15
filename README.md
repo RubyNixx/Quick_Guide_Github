@@ -1,3 +1,32 @@
+**Methods of working with Git**
+
+*Command Line Interface (CLI)*
+
+Some developers prefer using Git on the command line for several reasons:
+
+- Full control: The CLI offers direct access to all Git commands and features, making it suitable for complex and customized workflows
+- Speed: For experienced users, the CLI can be faster for common tasks
+- Scripting and automation: The CLI is scriptable, enabling developers to automate repetitive tasks
+- Better understanding: Using the CLI helps developers truly understand Git's underlying concepts and operations
+
+*Browser-based Interface*
+
+Others prefer using Git via a browser interface (like GitHub's web interface) because:
+
+- Simplicity: It's more intuitive for beginners and requires no local setup
+- Accessibility: It can be accessed from any device with a web browser
+- Quick edits: For small changes or when working on unfamiliar machines, it's convenient
+
+*Git GUI Applications (e.g., GitHub Desktop)*
+
+Many users opt for Git GUI applications due to:
+
+- Visual representation: GUIs provide a graphical view of the repository structure and history
+- User-friendly interface: They offer intuitive interfaces for common Git operations
+- Integration: Some GUIs integrate with issue tracking and other development tools
+
+Ultimately, the choice depends on personal preference, project requirements, and the user's level of Git expertise. Many developers use a combination of these methods, selecting the most appropriate tool for each task.
+
 **Creating a Repository from a Template**
 
 1. Navigate to the main page of the template repository on GitHub.com.
@@ -130,4 +159,5 @@ Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.co
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 ```
 
-```
+**Useful Resources:**
+[Working with Git on the command line](https://user-guidance.analytical-platform.service.justice.gov.uk/github/command-line-git.html)
